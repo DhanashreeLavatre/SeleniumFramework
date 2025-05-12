@@ -10,7 +10,7 @@ Then create multiple testcase with different browser parameter  -->
 
 
 	<test name="Login page Test_chrome">
-		<parameter name="browser" value="Chrome" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.app.tests.LoginPageTest" />
 		</classes>
